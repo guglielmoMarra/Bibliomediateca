@@ -1,4 +1,4 @@
-Il sito è stato progettato sia per mobile che per pc:
+Il sito è stato progettato sia per <strong>mobile</strong> che per <strong>pc</strong>:
 1) La versione per mobile si presenta cosi: <br>
     la navbar viene estesa in verticale inserendo i titoli principali dei libri, cliccando su ognuno di essi il link porta al relativo titolo <br><br>
   ![Screenshot 2023-11-14 121430](https://github.com/guglielmoMarra/Bibliomediateca/assets/96046077/eac5b624-071d-42dd-86a6-280d084f0f6d)
