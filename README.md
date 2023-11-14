@@ -1,6 +1,8 @@
 Il sito è stato progettato sia per <strong>mobile</strong> che per <strong>pc</strong>:
 1) La versione per mobile si presenta cosi: <br>
     la navbar viene estesa in verticale inserendo i titoli principali dei libri, cliccando su ognuno di essi il link porta al relativo titolo <br><br>
-  ![Screenshot 2023-11-14 121430](https://github.com/guglielmoMarra/Bibliomediateca/assets/96046077/eac5b624-071d-42dd-86a6-280d084f0f6d)
+  ![Acquisisci schermata Web_14-11-2023_124253_127 0 0 1](https://github.com/guglielmoMarra/Bibliomediateca/assets/96046077/17849411-94b8-431b-bf07-dd461a74138f)
+
 3) La versione per pc invece si presenta in questo modo: <br><br>
-   ![Screenshot 2023-11-14 121306](https://github.com/guglielmoMarra/Bibliomediateca/assets/96046077/b59caa20-7da4-4097-9485-6a4518b2b65c)
+   ![Uploading Acquisisci schermata Web_14-11-2023_124236_127.0.0.1.jpeg…]()
+
